@@ -1,1 +1,2 @@
 this is a story on branch "feature1".
+update the story on branch "feature1".
