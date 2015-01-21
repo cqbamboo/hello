@@ -1,2 +1,2 @@
 # hello
-Hello World step by step following GitHub guides
+This is a traditional "Hello World" which used to study GitHub.
